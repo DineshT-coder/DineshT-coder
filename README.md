@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DineshT-coder
-- 👀 I’m interested in Data Analyst and Frontend Developer
-- 🌱 I’m currently learning Data Analyst
+- 👀 I’m interested in Data Analyst and Full Stack Development
+- 🌱 I’m currently learning Java Full Stack Development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me email:dineshdharshan33@gmail.com
 
