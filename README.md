@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Dinesh Dharshan Thangavel  
 
-🚀 **Aspiring Full-Stack Developer | Software Tester | Data Engineer | Database Administrator**  
+🚀 **Aspiring Full-Stack Developer | Software Tester | Data Engineer | Database Administrator | Data Analyst**  
 
 🛠 **Tech Stack:** Java, Python, JavaScript, React.js, Node.js, HTML, CSS, SQL, AWS, Docker, Kubernetes, Selenium, Postman, Jmeter  
 
